@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "Ulysse Virginet"
+title: ""
 ---
 
-# 🎓 Ulysse Virginet  
+# Ulysse Virginet  
 _Particle Physicist & Data Scientist_  
 
 📍 **Paris, France**  
