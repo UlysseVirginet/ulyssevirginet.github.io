@@ -1,3 +1,2 @@
-theme: jekyll-theme-minimal
-title: "Mon CV"
-description: "Bienvenue sur mon CV en ligne !"
+theme: jekyll-theme-cayman
+custom_css: "assets/css/style.css"
