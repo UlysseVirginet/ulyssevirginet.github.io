@@ -1,6 +1,8 @@
 ---
 layout: default
 ---
+<div class="header-image"></div>
+
 <div style="display: flex; align-items: center;">
   <img src="images/photoCV.jpeg" alt="Ulysse Virginet" style="width: 77px; height: 102px; border-radius: 50%; margin-right: 20px;">
   <div>
