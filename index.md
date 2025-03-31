@@ -1,9 +1,13 @@
 ---
 layout: default
-title: "Mon CV"
+title: "Ulysse Virginet"
 ---
 
-# Mon CV
-Bienvenue sur mon CV en ligne !
+# 🎓 Ulysse Virginet  
+_Particle Physicist & Data Scientist_  
 
+📍 **Paris, France**  
+📧 ulysse.virginet@gmail.com  
 📄 [Télécharger mon CV en PDF](CV_Ulysse_Virginet.pdf)
+
+---
