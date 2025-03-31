@@ -9,7 +9,7 @@ body {
 .header-image {
     width: 100%;
     height: 250px; 
-    background-color: red; /* Test pour voir si la div existe bien */
+    background-color: red; 
 }
 
 .profile-container {
