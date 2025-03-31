@@ -9,7 +9,9 @@ body {
 .header-image {
     width: 100%;
     height: 250px; 
-    background-color: red; 
+    background-image: url('https://github.com/UlysseVNu/ulyssevirginet.github.io/edit/main/images/PMT.jpeg'); 
+    background-size: cover;
+    background-position: center;
 }
 
 .profile-container {
