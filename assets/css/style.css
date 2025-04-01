@@ -1,3 +1,7 @@
+h1:first-of-type {
+    display: none;
+}
+
 body {
     font-family: 'Arial', sans-serif;
     max-width: 800px;
@@ -8,7 +12,7 @@ body {
 
 .header-image {
     width: 100%;
-    height: 500px; 
+    height: 100px; 
     background-image: url('https://raw.githubusercontent.com/UlysseVNu/ulyssevirginet.github.io/main/images/PMT.jpeg'); 
     background-size: cover;
     background-position: center;
