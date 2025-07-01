@@ -13,6 +13,5 @@ layout: default
 
 📍 **Paris, France**  
 📧 ulysse.virginet@gmail.com  
-📄 [Télécharger mon CV en PDF](CV_Ulysse_Virginet.pdf)
 
 ---
